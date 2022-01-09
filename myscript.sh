@@ -1,4 +1,6 @@
 #!/bin/bash
+# get arguments
+echo $0 $1 $2 $3 $4 $5 $6 $7 $8 $9
 
 read -p "What is your name? " name
 echo "Hello $name, nice to meet you!"
